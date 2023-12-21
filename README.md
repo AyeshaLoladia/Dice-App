@@ -1,16 +1,15 @@
-# first_app
+# Dice App
 
-A new Flutter project.
+
+
+## Description
+
+The Dice App is a user-friendly application for virtual dice-rolling. Experience realistic animations, customize dice options, and enjoy authentic sound effects. Perfect for board games, decision-making, or just having fun!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Installation:**
+   ```bash
+   git clone https://github.com/yourusername/dice-app.git
+   cd dice-app
+   npm install
